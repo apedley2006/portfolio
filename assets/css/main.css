@@ -1665,6 +1665,14 @@ input, select, textarea {
 			border-bottom: solid 1px #e2e6e8;
 		}
 
+		input {
+			width: 100%;
+		}
+
+		textarea {
+			width: 100%;
+		}
+
 /* Footer */
 
 	#footer {
